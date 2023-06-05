@@ -1,0 +1,35 @@
+html {
+    font-family: 'Kanit', sans-serif;
+font-family: 'Outfit', sans-serif;
+}
+body {
+    margin: 0;
+    background-color:beige;
+}
+header {
+    background-color: #ffd700;
+    color: chocolate;
+    padding: 2rem;
+    text-align: center;
+}
+.container {
+    display: block;
+    list-style: inside;
+    margin: 0;
+    padding: 1rem;
+    font-size: 18px;
+    text-align: center;
+    border: 0.5rem;
+}
+img {
+    width: 400px;
+    height: 400px;
+}
+footer {
+    margin: 0;
+    background-color: black;
+    color: #fff;
+    text-align: right;
+    padding: 2rem;
+
+}
